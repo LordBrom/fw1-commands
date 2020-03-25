@@ -4,6 +4,7 @@
 * - Examples
 * - Skeleton
 * - Basic
+* - Basic-Tags
 * - Subsystem
 * - Subsystem-Legacy
 * .
@@ -49,7 +50,7 @@ component displayname="FW/1 Create Application Command"
 	/**
 	* @name.hint The name of the app being created.
 	* @skeleton.hint The name of the app skeleton to generate.
-	* @skeleton.options Examples, Skeleton, Basic, Subsystem, Subsystem-Legacy
+	* @skeleton.options Examples, Skeleton, Basic, Basic-Tags, Subsystem, Subsystem-Legacy
 	* @directory.hint The directory to create the app in. Defaults to current working directory.
 	* @installFW1.hint Install the latest stable version of FW/1 from ForgeBox.
 	* @package.hint Generate a box.json to make the current directory a package.

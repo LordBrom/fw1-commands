@@ -41,6 +41,7 @@ To break it down further, `fw1` is the alias used that tells CommandBox that we 
 - *Examples*: (the examples and introduction folders from the FW/1 repo) - `fw1 create app myApp examples`
 - *Skeleton*: (the skeleton folder from the FW/1 repo) - `fw1 create app myApp skeleton`
 - *Basic*: (a bare bones setup for a single application) - `fw1 create app myApp basic`
+- *Basic-Tags*: (same as basic, except using tags instead of cfscript) - `fw1 create app myApp basic-tags`
 - *Subsystem*: (a bare bones setup for a application using subsystems 2.0 released with FW/1 3.5) - `fw1 create app myApp subsystem`
 - *Subsystem Legacy*: (a bare bones setup for a application using subsystems prior to 2.0) - `fw1 create app myApp subsystem-legacy`
 
